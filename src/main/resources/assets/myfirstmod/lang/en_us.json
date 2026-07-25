@@ -7,7 +7,7 @@
   "item.myfirstmod.sapphire_axe": "Sapphire Axe",
   "item.myfirstmod.sapphire_shovel": "Sapphire Shovel",
   "item.myfirstmod.sapphire_hoe": "Sapphire Hoe",
-
+  "item.myfirstmod.metal_detector": "Metal Detector",
   "item.myfirstmod.sapphire_helmet": "Sapphire Helmet",
   "item.myfirstmod.sapphire_chestplate": "Sapphire Chestplate",
   "item.myfirstmod.sapphire_leggings": "Sapphire Leggings",
@@ -28,5 +28,6 @@
   "block.myfirstmod.sapphire_door": "Sapphire Door",
   "block.myfirstmod.sapphire_trapdoor": "Sapphire Trapdoor",
 
+  "tooltip.myfirstmod.metal_detector.tooltip": "Finds valuables underground!",
   "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
 }
