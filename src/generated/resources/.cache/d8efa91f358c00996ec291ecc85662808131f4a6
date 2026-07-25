@@ -1,0 +1,4 @@
+// 1.20.1	2026-07-24T21:58:37.46052	Tags for minecraft:block mod id myfirstmod
+07ea11162e5d628b9329f7e021286412f487d176 data/minecraft/tags/blocks/mineable/pickaxe.json
+4fb118b5fa8ef33f7add132590dc4ddd92e07f16 data/minecraft/tags/blocks/needs_diamond_tool.json
+5c33108d5c951b882b799c656a92e8fe2d6e5ddd data/minecraft/tags/blocks/needs_iron_tool.json

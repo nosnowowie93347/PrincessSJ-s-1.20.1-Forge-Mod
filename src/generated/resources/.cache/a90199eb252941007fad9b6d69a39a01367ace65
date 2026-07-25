@@ -1,0 +1,10 @@
+// 1.20.1	2026-07-24T21:58:37.4615242	Block States: myfirstmod
+db6cdbf3ae3b154f2b8dbde5af4526036972922e assets/myfirstmod/blockstates/raw_sapphire_block.json
+5c7d4462a3ede635347672ea8d68b1dde22ae07b assets/myfirstmod/blockstates/sapphire_block.json
+ccd3e9c68961138e1243a50d3556b43507425c44 assets/myfirstmod/blockstates/sapphire_ore.json
+0e190a6a4be3bedd5192b59d3eff978a4593363b assets/myfirstmod/models/block/raw_sapphire_block.json
+6dc59a66d0d3ad34814411cefd8a3e1ef2eba49b assets/myfirstmod/models/block/sapphire_block.json
+9c033a72d96abc4d698ad779008883ab09f37517 assets/myfirstmod/models/block/sapphire_ore.json
+08ec2fa5fd0ac7ce58d8e8868e80f25ea6aa0777 assets/myfirstmod/models/item/raw_sapphire_block.json
+631d874825edb8bc1cee9fd78c59873be9b99297 assets/myfirstmod/models/item/sapphire_block.json
+a65ca93cc7d44617374432868e4a2b3b2aad19c8 assets/myfirstmod/models/item/sapphire_ore.json

@@ -1,0 +1,11 @@
+{
+  "item.myfirstmod.sapphire": "Sapphire",
+  "item.myfirstmod.raw_sapphire": "Raw Sapphire",
+
+  "block.myfirstmod.sapphire_block": "Block of Sapphire",
+  "block.myfirstmod.sapphire_ore": "Sapphire Ore",
+  "item.myfirstmod.strawberry": "Strawberry",
+  "item.myfirstmod.pine_cone": "Pine Cone",
+
+  "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
+}  "block.myfirstmod.raw_sapphire_block": "Block of Raw Sapphire",
