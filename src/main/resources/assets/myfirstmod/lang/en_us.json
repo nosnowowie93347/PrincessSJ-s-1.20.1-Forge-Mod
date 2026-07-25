@@ -7,6 +7,11 @@
   "item.myfirstmod.sapphire_axe": "Sapphire Axe",
   "item.myfirstmod.sapphire_shovel": "Sapphire Shovel",
   "item.myfirstmod.sapphire_hoe": "Sapphire Hoe",
+
+  "item.myfirstmod.sapphire_helmet": "Sapphire Helmet",
+  "item.myfirstmod.sapphire_chestplate": "Sapphire Chestplate",
+  "item.myfirstmod.sapphire_leggings": "Sapphire Leggings",
+  "item.myfirstmod.sapphire_boots": "Sapphire Boots",
   
   "block.myfirstmod.raw_sapphire_block": "Block of Raw Sapphire",
   "block.myfirstmod.sapphire_block": "Block of Sapphire",

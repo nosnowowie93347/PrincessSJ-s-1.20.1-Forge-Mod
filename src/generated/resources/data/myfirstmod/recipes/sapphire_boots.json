@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "myfirstmod:sapphire"
+    }
+  },
+  "pattern": [
+    "F F",
+    "F F"
+  ],
+  "result": {
+    "item": "myfirstmod:sapphire_boots"
+  },
+  "show_notification": true
+}
