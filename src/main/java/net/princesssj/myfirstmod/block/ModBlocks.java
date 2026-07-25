@@ -5,6 +5,7 @@ import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.level.block.*;
 import net.minecraft.world.level.block.state.properties.BlockSetType;
 import net.princesssj.myfirstmod.MyFirstMod;
+import net.princesssj.myfirstmod.block.custom.StrawberryCropBlock;
 import net.princesssj.myfirstmod.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
@@ -38,6 +39,8 @@ public class ModBlocks {
     public static final RegistryObject<Block> SAPPHIRE_PRESSURE_PLATE = registerBlock("sapphire_pressure_plate",
             () -> new PressurePlateBlock(PressurePlateBlock.Sensitivity.EVERYTHING, BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK),
                     BlockSetType.IRON));
+    public static final RegistryObject<Block> STRAWBERRY_CROP = BLOCKS.register("strawberry_crop",
+            () -> new StrawberryCropBlock(BlockBehaviour.Properties.copy(Blocks.WHEAT).noOcclusion().noCollission()));
 
     public static final RegistryObject<Block> SAPPHIRE_FENCE = registerBlock("sapphire_fence",
             () -> new FenceBlock(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));

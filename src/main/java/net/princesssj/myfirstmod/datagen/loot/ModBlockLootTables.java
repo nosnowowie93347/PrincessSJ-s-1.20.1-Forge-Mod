@@ -1,6 +1,10 @@
 package net.princesssj.myfirstmod.datagen.loot;
 
+import net.minecraft.advancements.critereon.StatePropertiesPredicate;
+import net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition;
+import net.minecraft.world.level.storage.loot.predicates.LootItemCondition;
 import net.princesssj.myfirstmod.block.ModBlocks;
+import net.princesssj.myfirstmod.block.custom.StrawberryCropBlock;
 import net.princesssj.myfirstmod.item.ModItems;
 import net.minecraft.data.loot.BlockLootSubProvider;
 import net.minecraft.world.flag.FeatureFlags;
@@ -40,6 +44,12 @@ public class ModBlockLootTables extends BlockLootSubProvider {
         this.add(ModBlocks.SAPPHIRE_ORE.get(),
                 block -> createCopperLikeOreDrops(ModBlocks.SAPPHIRE_ORE.get(), ModItems.RAW_SAPPHIRE.get()));
 
+        LootItemCondition.Builder lootitemcondition$builder = LootItemBlockStatePropertyCondition
+                .hasBlockStateProperties(ModBlocks.STRAWBERRY_CROP.get())
+                .setProperties(StatePropertiesPredicate.Builder.properties().hasProperty(StrawberryCropBlock.AGE, 5));
+
+        this.add(ModBlocks.STRAWBERRY_CROP.get(), createCropDrops(ModBlocks.STRAWBERRY_CROP.get(), ModItems.STRAWBERRY.get(),
+                ModItems.STRAWBERRY_SEEDS.get(), lootitemcondition$builder));
     }
 
     protected LootTable.Builder createCopperLikeOreDrops(Block pBlock, Item item) {
