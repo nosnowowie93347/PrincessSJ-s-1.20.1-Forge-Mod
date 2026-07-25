@@ -1,8 +1,6 @@
 package net.princesssj.myfirstmod.datagen;
 
-import net.minecraft.world.item.Item;
 import net.minecraft.world.item.Items;
-import net.minecraftforge.client.event.RegisterColorHandlersEvent;
 import net.princesssj.myfirstmod.MyFirstMod;
 import net.princesssj.myfirstmod.block.ModBlocks;
 import net.princesssj.myfirstmod.item.ModItems;

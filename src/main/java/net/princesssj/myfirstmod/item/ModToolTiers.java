@@ -1,6 +1,5 @@
 package net.princesssj.myfirstmod.item;
 
-import net.princesssj.myfirstmod.item.ModItems;
 import net.princesssj.myfirstmod.MyFirstMod;
 import net.princesssj.myfirstmod.util.ModTags;
 import net.minecraft.resources.ResourceLocation;
