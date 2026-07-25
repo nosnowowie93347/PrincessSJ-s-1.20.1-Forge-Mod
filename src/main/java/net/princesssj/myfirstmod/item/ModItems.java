@@ -1,11 +1,11 @@
 package net.princesssj.myfirstmod.item;
 
 import net.minecraft.world.item.*;
-import net.princesssj.myfirstmod.MyFirstMod;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
+import net.princesssj.myfirstmod.MyFirstMod;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
