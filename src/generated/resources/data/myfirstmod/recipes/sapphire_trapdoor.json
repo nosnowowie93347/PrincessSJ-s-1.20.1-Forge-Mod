@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "Z": {
+      "item": "myfirstmod:sapphire"
+    }
+  },
+  "pattern": [
+    "ZZ",
+    "ZZ"
+  ],
+  "result": {
+    "item": "myfirstmod:sapphire_trapdoor"
+  },
+  "show_notification": true
+}

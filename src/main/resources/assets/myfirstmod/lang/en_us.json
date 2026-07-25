@@ -2,10 +2,26 @@
   "item.myfirstmod.sapphire": "Sapphire",
   "item.myfirstmod.raw_sapphire": "Raw Sapphire",
 
+  "item.myfirstmod.sapphire_sword": "Sapphire Sword",
+  "item.myfirstmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.myfirstmod.sapphire_axe": "Sapphire Axe",
+  "item.myfirstmod.sapphire_shovel": "Sapphire Shovel",
+  "item.myfirstmod.sapphire_hoe": "Sapphire Hoe",
+  
+  "block.myfirstmod.raw_sapphire_block": "Block of Raw Sapphire",
   "block.myfirstmod.sapphire_block": "Block of Sapphire",
   "block.myfirstmod.sapphire_ore": "Sapphire Ore",
   "item.myfirstmod.strawberry": "Strawberry",
   "item.myfirstmod.pine_cone": "Pine Cone",
+  "block.myfirstmod.sapphire_stairs": "Sapphire Stairs",
+  "block.myfirstmod.sapphire_slab": "Sapphire Slab",
+  "block.myfirstmod.sapphire_button": "Sapphire Button",
+  "block.myfirstmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.myfirstmod.sapphire_fence": "Sapphire Fence",
+  "block.myfirstmod.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.myfirstmod.sapphire_wall": "Sapphire Wall",
+  "block.myfirstmod.sapphire_door": "Sapphire Door",
+  "block.myfirstmod.sapphire_trapdoor": "Sapphire Trapdoor",
 
   "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
-}  "block.myfirstmod.raw_sapphire_block": "Block of Raw Sapphire",
+}

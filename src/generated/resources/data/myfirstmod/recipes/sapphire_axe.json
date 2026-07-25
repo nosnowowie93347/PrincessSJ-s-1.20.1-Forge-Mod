@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "myfirstmod:sapphire"
+    },
+    "V": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "PP ",
+    "PV ",
+    " V "
+  ],
+  "result": {
+    "item": "myfirstmod:sapphire_axe"
+  },
+  "show_notification": true
+}

@@ -1,4 +1,13 @@
-// 1.20.1	2026-07-24T21:58:37.4590167	Loot Tables
+// 1.20.1	2026-07-25T13:37:20.4810532	Loot Tables
 44e71e0914b12f353cc38259216550c1eceb7498 data/myfirstmod/loot_tables/blocks/raw_sapphire_block.json
 7798529d66ba9a943bbd9acaadd5dd0f4a7d3481 data/myfirstmod/loot_tables/blocks/sapphire_block.json
+8fc255396a545ab0b383de0d37fae05618a2eabf data/myfirstmod/loot_tables/blocks/sapphire_button.json
+55a1436d6edd006b0ecc1b929c1a92e803eb7198 data/myfirstmod/loot_tables/blocks/sapphire_door.json
+8a5687c0a9265e1c7ec9e63e5b76f046e8bbcff0 data/myfirstmod/loot_tables/blocks/sapphire_fence.json
+807bf31d8dcf765a4195ee8e5f9dcf3c052f7647 data/myfirstmod/loot_tables/blocks/sapphire_fence_gate.json
 5a21c58c8b0fa56d534684b5ffe12943182cb24a data/myfirstmod/loot_tables/blocks/sapphire_ore.json
+2eba95ac5ec01e9c9ccd4d262091fe03446226b2 data/myfirstmod/loot_tables/blocks/sapphire_pressure_plate.json
+7387bb185592a6d224d9768903277d8a55daf040 data/myfirstmod/loot_tables/blocks/sapphire_slab.json
+5c44c9b9debf4f853c99e8026a6234e9d84c4481 data/myfirstmod/loot_tables/blocks/sapphire_stairs.json
+bf18ad19dc4ecc21a602c025058afc2bf5b70080 data/myfirstmod/loot_tables/blocks/sapphire_trapdoor.json
+4ac48db08abbd0a96f95effcdf9f70bd2a2ee79b data/myfirstmod/loot_tables/blocks/sapphire_wall.json

@@ -1,4 +1,9 @@
-// 1.20.1	2026-07-24T21:58:37.46052	Tags for minecraft:block mod id myfirstmod
-07ea11162e5d628b9329f7e021286412f487d176 data/minecraft/tags/blocks/mineable/pickaxe.json
+// 1.20.1	2026-07-25T13:58:30.0998782	Tags for minecraft:block mod id myfirstmod
+7ae913dff792e0409497ca582e0533305d812cf6 data/minecraft/tags/blocks/fences.json
+ff481f145bf93b9649afd0ae6812d8730e6bc5a3 data/minecraft/tags/blocks/fence_gates.json
+6dbd15f58373444b6c400f05e4526c6a472516e1 data/minecraft/tags/blocks/mineable/axe.json
+4169a3924200e6b34a88b8ac205dc306032adc68 data/minecraft/tags/blocks/mineable/pickaxe.json
 4fb118b5fa8ef33f7add132590dc4ddd92e07f16 data/minecraft/tags/blocks/needs_diamond_tool.json
 5c33108d5c951b882b799c656a92e8fe2d6e5ddd data/minecraft/tags/blocks/needs_iron_tool.json
+3b3fb2b8ee75e7b93bbc552a4e9b6e60cfeec80b data/minecraft/tags/blocks/needs_stone_tool.json
+2b31171f6693a1118d070d6654258c64fd51e8b7 data/minecraft/tags/blocks/walls.json

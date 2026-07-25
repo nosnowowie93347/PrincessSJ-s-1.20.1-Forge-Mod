@@ -1,5 +1,19 @@
-// 1.20.1	2026-07-24T21:58:37.4590167	Item Models: myfirstmod
+// 1.20.1	2026-07-25T14:17:35.6248471	Item Models: myfirstmod
 4661744af1378ec26c45b13f9ec7f8f37677ffe8 assets/myfirstmod/models/item/pine_cone.json
 f17d3d8d88ca00e9187da4fa54378190528c142a assets/myfirstmod/models/item/raw_sapphire.json
 9d327cf111ab733398cec31e6ae88da4f93b89d2 assets/myfirstmod/models/item/sapphire.json
+4249042b02339a9359db3199df17cd5fb02cadb1 assets/myfirstmod/models/item/sapphire_axe.json
+aab3da2bf54f3c6bfdb2c5f8785200751ac6b2e4 assets/myfirstmod/models/item/sapphire_button.json
+46b0b9b1c683a1c8302376192d1dff0ff47cba89 assets/myfirstmod/models/item/sapphire_door.json
+6b3e63cf1dc6464a069af2100eda69cb62fd1d50 assets/myfirstmod/models/item/sapphire_fence.json
+c4f1209f18442f2cb4a4b774567722f1eb597076 assets/myfirstmod/models/item/sapphire_fence_gate.json
+0ad0db40cb2453aa267a5aaf79b82ba370c87956 assets/myfirstmod/models/item/sapphire_hoe.json
+587efaf7b6a65bbcda00434c23b03b26a799dd8c assets/myfirstmod/models/item/sapphire_pickaxe.json
+28b34a4b7b23f1d184f8c54c2054ee86cb6d6a05 assets/myfirstmod/models/item/sapphire_pressure_plate.json
+2f26efb73ba32ecac94bc717c2afbbe4fdfcee89 assets/myfirstmod/models/item/sapphire_shovel.json
+a21511ac4c9990852ca1fb0bf2da3b27d139a429 assets/myfirstmod/models/item/sapphire_slab.json
+83e2bbf202f4f00a4acf64dab24f0e0ba392f810 assets/myfirstmod/models/item/sapphire_stairs.json
+d4aa6099968854ad3cc11879e316511c1d0918ff assets/myfirstmod/models/item/sapphire_sword.json
+9e6b3ed14c174afc099a79b305d3f24ead2ac661 assets/myfirstmod/models/item/sapphire_trapdoor.json
+5f729e4ad164ab54953d60f1af36fed413381472 assets/myfirstmod/models/item/sapphire_wall.json
 e2950878d366126c6aef65e02daafa418a8497ee assets/myfirstmod/models/item/strawberry.json

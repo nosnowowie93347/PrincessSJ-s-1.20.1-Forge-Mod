@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "myfirstmod:sapphire"
+    },
+    "V": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " PP",
+    " V ",
+    " V "
+  ],
+  "result": {
+    "item": "myfirstmod:sapphire_hoe"
+  },
+  "show_notification": true
+}
