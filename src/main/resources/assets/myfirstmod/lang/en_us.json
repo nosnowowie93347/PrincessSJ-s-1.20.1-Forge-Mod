@@ -27,6 +27,8 @@
   "block.myfirstmod.sapphire_wall": "Sapphire Wall",
   "block.myfirstmod.sapphire_door": "Sapphire Door",
   "block.myfirstmod.sapphire_trapdoor": "Sapphire Trapdoor",
+  "item.myfirstmod.corn": "Corn",
+  "item.myfirstmod.corn_seeds": "Corn Seeds",
 
   "tooltip.myfirstmod.metal_detector.tooltip": "Finds valuables underground!",
   "creativetab.tutorial_tab": "Sapphire Tutorial Tab"
