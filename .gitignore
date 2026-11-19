@@ -1,25 +1,31 @@
-# eclipse
-bin
-*.launch
-.settings
-.metadata
-.classpath
-.project
+# Gradle build outputs and caches
+.gradle
+**/build/
+!**/src/**/build/
 
-# idea
-out
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Avoid ignore Gradle Wrapper properties
+!gradle-wrapper.properties
+
+# Cache of project
+.gradletasknamecache
+
+# IDE-specific files (IntelliJ IDEA, Eclipse, VS Code)
+.idea/
+*.iml
 *.ipr
 *.iws
-*.iml
-.idea
+.run/
+.project
+.classpath
+.settings/
+.vscode/
 
-# gradle
-build
-.gradle
-
-# other
-eclipse
-run
-
-# Files from Forge MDK
-forge*changelog.txt
+# OS-generated files
+.DS_Store
+Thumbs.db
