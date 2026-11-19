@@ -32,7 +32,14 @@ public class ModEvents {
                     new ItemStack(Items.EMERALD, 2),
                     new ItemStack(ModItems.STRAWBERRY.get(), 12),
                     40, 8, 0.02f));
-
+            trades.get(1).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(Items.EMERALD, 2),
+                    new ItemStack(ModItems.STRAWBERRY_SEEDS.get(), 8),
+                    1000, 12, .02f));
+            trades.get(1).add((pTrader, pRandom) -> new MerchantOffer(
+                    new ItemStack(Items.EMERALD, 12),
+                    new ItemStack(ModItems.PINE_CONE.get(), 16),
+                    1000, 12, .02f));
             // Level 2
             trades.get(2).add((pTrader, pRandom) -> new MerchantOffer(
                     new ItemStack(Items.EMERALD, 5),
