@@ -1,4 +1,7 @@
-// 1.20.1	2026-07-25T15:30:22.963303284	Item Models: myfirstmod
+// 1.20.1	2026-11-18T15:15:23.1778907	Item Models: myfirstmod
+40e3c6079f12180bc8996fdc3ec6c9e9fd22fcd7 assets/myfirstmod/models/item/corn.json
+fdee9153308693c86007ab26f4bfef22cb37fbda assets/myfirstmod/models/item/corn_seeds.json
+8a041a805de4d45ddaec8e0a07bf1a124f126609 assets/myfirstmod/models/item/metal_detector.json
 4661744af1378ec26c45b13f9ec7f8f37677ffe8 assets/myfirstmod/models/item/pine_cone.json
 f17d3d8d88ca00e9187da4fa54378190528c142a assets/myfirstmod/models/item/raw_sapphire.json
 9d327cf111ab733398cec31e6ae88da4f93b89d2 assets/myfirstmod/models/item/sapphire.json
@@ -61,3 +64,4 @@ d4aa6099968854ad3cc11879e316511c1d0918ff assets/myfirstmod/models/item/sapphire_
 9e6b3ed14c174afc099a79b305d3f24ead2ac661 assets/myfirstmod/models/item/sapphire_trapdoor.json
 5f729e4ad164ab54953d60f1af36fed413381472 assets/myfirstmod/models/item/sapphire_wall.json
 e2950878d366126c6aef65e02daafa418a8497ee assets/myfirstmod/models/item/strawberry.json
+1c0540a84b6e969980804ce9d34ba53b4dba73b7 assets/myfirstmod/models/item/strawberry_seeds.json

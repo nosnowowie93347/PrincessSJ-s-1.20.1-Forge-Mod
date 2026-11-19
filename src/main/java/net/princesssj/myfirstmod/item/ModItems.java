@@ -34,7 +34,7 @@ public class ModItems {
     public static final RegistryObject<Item> SAPPHIRE_PICKAXE = ITEMS.register("sapphire_pickaxe",
             () -> new PickaxeItem(ModToolTiers.SAPPHIRE, 1, .5f, new Item.Properties()));
     public static final RegistryObject<Item> SAPPHIRE_AXE = ITEMS.register("sapphire_axe",
-            () -> new AxeItem(ModToolTiers.SAPPHIRE, 5, .25f, new Item.Properties()));
+            () -> new AxeItem(ModToolTiers.SAPPHIRE, 5, -3f, new Item.Properties()));
     public static final RegistryObject<Item> SAPPHIRE_SHOVEL = ITEMS.register("sapphire_shovel",
             () -> new ShovelItem(ModToolTiers.SAPPHIRE, 0, .1f, new Item.Properties()));
     public static final RegistryObject<Item> SAPPHIRE_HOE = ITEMS.register("sapphire_hoe",

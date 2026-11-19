@@ -1,4 +1,5 @@
-// 1.20.1	2026-07-25T13:37:20.4810532	Loot Tables
+// 1.20.1	2026-11-18T15:15:23.1778907	Loot Tables
+892f0a7f5b5e34501efb1b317fdcb43b1960dfa5 data/myfirstmod/loot_tables/blocks/corn_crop.json
 44e71e0914b12f353cc38259216550c1eceb7498 data/myfirstmod/loot_tables/blocks/raw_sapphire_block.json
 7798529d66ba9a943bbd9acaadd5dd0f4a7d3481 data/myfirstmod/loot_tables/blocks/sapphire_block.json
 8fc255396a545ab0b383de0d37fae05618a2eabf data/myfirstmod/loot_tables/blocks/sapphire_button.json
@@ -11,3 +12,4 @@
 5c44c9b9debf4f853c99e8026a6234e9d84c4481 data/myfirstmod/loot_tables/blocks/sapphire_stairs.json
 bf18ad19dc4ecc21a602c025058afc2bf5b70080 data/myfirstmod/loot_tables/blocks/sapphire_trapdoor.json
 4ac48db08abbd0a96f95effcdf9f70bd2a2ee79b data/myfirstmod/loot_tables/blocks/sapphire_wall.json
+87c5204f538d04dc79c99a0f58769c0b2e13b970 data/myfirstmod/loot_tables/blocks/strawberry_crop.json

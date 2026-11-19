@@ -1,0 +1,7 @@
+// 1.20.1	2026-11-18T16:24:43.2024609	Registries
+0b5da061a8e716af38dbe01509c445141aad221a data/myfirstmod/dimension/kaupendim.json
+e241e971aacde6f4d0236c622c99d6c9caeb981e data/myfirstmod/dimension_type/kaupendim_type.json
+a8609acf5dd4038326384ee12387b83770c3a393 data/myfirstmod/forge/biome_modifier/add_sapphire_ore.json
+adc7bebd8601dd808551e688ed24dd0c5d8262bc data/myfirstmod/worldgen/biome/test_biome.json
+66ffa92c8e28e0af5e024df9e045aedf107a947e data/myfirstmod/worldgen/configured_feature/sapphire_ore.json
+5fab58f0e4dfb9d0441ee05b98315b854a63edd4 data/myfirstmod/worldgen/placed_feature/sapphire_ore_placed.json

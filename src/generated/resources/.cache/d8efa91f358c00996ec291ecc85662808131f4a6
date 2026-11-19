@@ -1,4 +1,4 @@
-// 1.20.1	2026-07-25T13:58:30.0998782	Tags for minecraft:block mod id myfirstmod
+// 1.20.1	2026-11-18T15:15:23.1796616	Tags for minecraft:block mod id myfirstmod
 7ae913dff792e0409497ca582e0533305d812cf6 data/minecraft/tags/blocks/fences.json
 ff481f145bf93b9649afd0ae6812d8730e6bc5a3 data/minecraft/tags/blocks/fence_gates.json
 6dbd15f58373444b6c400f05e4526c6a472516e1 data/minecraft/tags/blocks/mineable/axe.json
@@ -7,3 +7,4 @@ ff481f145bf93b9649afd0ae6812d8730e6bc5a3 data/minecraft/tags/blocks/fence_gates.
 5c33108d5c951b882b799c656a92e8fe2d6e5ddd data/minecraft/tags/blocks/needs_iron_tool.json
 3b3fb2b8ee75e7b93bbc552a4e9b6e60cfeec80b data/minecraft/tags/blocks/needs_stone_tool.json
 2b31171f6693a1118d070d6654258c64fd51e8b7 data/minecraft/tags/blocks/walls.json
+180b308dcfe2989d13702aa70a434577ff3027ee data/myfirstmod/tags/blocks/metal_detector_valuables.json
